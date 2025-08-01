@@ -37,6 +37,12 @@ The goal of this project is to build a regression model to predict bike rental c
 
 ---
 
-## ✅ Summary
+## 📘 Project Summary
 
-This project demonstrates a complete machine learning pipeline using a visual, no-code approach in Azure ML Designer — ideal for beginners and those learning ML concepts.
+This project demonstrates a complete machine learning regression pipeline built using Azure ML Studio Designer. The goal was to predict bike rental counts based on various features. The pipeline includes data cleaning, splitting, model training using Boosted Decision Tree Regression, and evaluation — all done through a no-code interface.
+
+## 🛠️ Tools Used
+
+- Azure Machine Learning Studio (Designer)
+- Boosted Decision Tree Regression
+- GitHub for version control
